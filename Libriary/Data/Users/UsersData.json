@@ -1,0 +1,23 @@
+[
+  {
+    "Id": "355b8749-4bf4-4654-b896-b3dc618c443a",
+    "Name": "G`olibjon",
+    "LastName": "Tuxtamatov",
+    "Age": 26,
+    "PhoneNumber": "+9981234567",
+    "Login": "admin",
+    "Password": "admincha",
+    "UserBooks": [
+      {
+        "BookName": "Bo`ladigan Bolalar",
+        "Author": "Po`lat Mo`min",
+        "BookCount": 1
+      },
+      {
+        "BookName": "Shum bola",
+        "Author": "G`ofur G`ulom",
+        "BookCount": 1
+      }
+    ]
+  }
+]
